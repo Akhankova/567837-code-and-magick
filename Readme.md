@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alina Akhankova](https://up.htmlacademy.ru/javascript/14/user/567837).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Тюрина](https://up.htmlacademy.ru/javascript/14/user/549147).
 
 ---
 
